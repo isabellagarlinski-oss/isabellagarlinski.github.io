@@ -1,5 +1,8 @@
 body {
   background-color: powderpurple;
+  font-family: "Montserrate", Helvetica, sans-serif; 
+  font-size: 16em;
+  color: Pink
 }
 h1 {
   color: purple;
@@ -7,13 +10,7 @@ h1 {
 p {
   color: pink;
 }
-/** CSS comments are written enclosed with these characters **/
 
-
-.myclass {
-  background-color: #fff7e8; /** hex codes also work for colors **/
-}
-
-#unique-id {
-  font-family: Arial, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
+.myclass { 
+  font-family: "Montserrate", Helvetica, sans-serif; 
 }
