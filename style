@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-h1 {
-  color: Slateblue;
-  font-family: fantasy;
-  font-size: 300%;
-}
-p {
-  color: #F4C2C2;
-  font-family: cursive;
-  font-size: 100%;
-}
-h2 {
-  color:Slateblue;
-  font-family: fantasy;
-  font-size: 300%
-}
-</style>
-</head>
+  <head>
+  <style>
+  h1 {
+    color: Slateblue;
+    font-family: fantasy;
+    font-size: 300%;
+  }
+  p {
+    color: #F4C2C2;
+    font-family: cursive;
+    font-size: 100%;
+  }
+  h2 {
+    color:Slateblue;
+    font-family: fantasy;
+    font-size: 300%
+  }
+  </style>
+  </head>
 <body>
 
 <h1>This is a heading</h1>
