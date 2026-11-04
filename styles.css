@@ -1,11 +1,15 @@
 body {
-  background-color: powderblue;
+  background-color: #F4DBE9;
 }
 h1 {
-  color: blue;
+  color: #CBC4D6;
 }
 p {
-  color: red;
+  color: #D1B4C6;
+}
+}
+h2{
+  color: #CBC4D6;
 }
 /** CSS comments are written enclosed with these characters **/
 
@@ -15,5 +19,5 @@ p {
 }
 
 #unique-id {
-  font-family: Arial, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
+  font-family: Fantasy, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
 }
