@@ -1,15 +1,17 @@
 body {
-  background-color: #F4DBE9;
+  background-color:  #CBC4D6;
 }
 h1 {
-  color: #CBC4D6;
+  color: #F4DBE9;
+  text-align: center;
 }
 p {
   color: #D1B4C6;
+  text-align: center;
 }
 }
 h2{
-  color: #CBC4D6;
+  color: #F4DBE9;
 }
 /** CSS comments are written enclosed with these characters **/
 
