@@ -1,17 +1,23 @@
-body {
-  background-color:lightpink;
-}
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 h1 {
-  color: blue;
+  color: Slateblue;
+  font-family: fantasy;
+  font-size: 300%;
 }
 p {
-  color: lightblue;
+  color: #F4C2C2;
+  font-family: cursive;
+  font-size: 100%;
 }
+</style>
+</head>
+<body>
 
-.myclass {
-  background-color:lightpurple
-}
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
-#unique-id {
-  font-family: Arial, Montserrat, sans-serif; 
-}
+</body>
+</html>
