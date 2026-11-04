@@ -1,13 +1,17 @@
-<!DOCTYPE html>
+body {
+  background-color:lightpink;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: lightblue;
+}
 
-<html>
-<body>
+.myclass {
+  background-color:lightpurple
+}
 
-<h1 style="color:purple;"></h1>
-<p style="color:blue;"></p>
-
-<h1 style="font-family:Montserrate;"</h1>
-<p style="font-family:courier;"></p>
-
-</body>
-</html>
+#unique-id {
+  font-family: Arial, Montserrat, sans-serif; 
+}
