@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  <style>
+<head>
+<style>
+
+.myDiv {
+  text-align: center;
+}
   h1 {
     color: Slateblue;
     font-family: fantasy;
