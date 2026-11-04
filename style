@@ -12,6 +12,11 @@ p {
   font-family: cursive;
   font-size: 100%;
 }
+h2 {
+  color:Slateblue;
+  font-family: fantasy;
+  font-size: 300%
+}
 </style>
 </head>
 <body>
