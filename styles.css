@@ -4,7 +4,7 @@ body {
 h1 {
   color: #F4DBE9;
   text-align: center;
-  font-family: Monospace;
+  font-family: 'Monospace';
 }
 p {
   color: #9192B8;
@@ -13,7 +13,7 @@ p {
 h2{
   color: #F4DBE9;
   text-align: center;
-  font-family: Georgia;
+  font-family: 'Georgia';
 }
 img {
     width: 300px;
